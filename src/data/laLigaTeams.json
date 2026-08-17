@@ -1,0 +1,393 @@
+[
+  {
+    "id": "real_madrid", "name": "Real Madrid", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Thibaut Courtois", "position": "GK", "age": 33, "overall": 89, "potential": 89 },
+      { "name": "Andriy Lunin", "position": "GK", "age": 26, "overall": 79, "potential": 83 },
+      { "name": "Éder Militão", "position": "DEF", "age": 27, "overall": 85, "potential": 87 },
+      { "name": "Antonio Rüdiger", "position": "DEF", "age": 32, "overall": 86, "potential": 86 },
+      { "name": "Dani Carvajal", "position": "DEF", "age": 33, "overall": 84, "potential": 84 },
+      { "name": "Ferland Mendy", "position": "DEF", "age": 30, "overall": 82, "potential": 82 },
+      { "name": "David Alaba", "position": "DEF", "age": 33, "overall": 83, "potential": 83 },
+      { "name": "Aurélien Tchouaméni", "position": "MID", "age": 25, "overall": 85, "potential": 89 },
+      { "name": "Eduardo Camavinga", "position": "MID", "age": 22, "overall": 85, "potential": 91 },
+      { "name": "Federico Valverde", "position": "MID", "age": 27, "overall": 87, "potential": 88 },
+      { "name": "Jude Bellingham", "position": "MID", "age": 22, "overall": 90, "potential": 94 },
+      { "name": "Luka Modrić", "position": "MID", "age": 39, "overall": 86, "potential": 86 },
+      { "name": "Arda Güler", "position": "MID", "age": 20, "overall": 84, "potential": 92 },
+      { "name": "Vinícius Júnior", "position": "FWD", "age": 25, "overall": 90, "potential": 93 },
+      { "name": "Kylian Mbappé", "position": "FWD", "age": 26, "overall": 91, "potential": 93 },
+      { "name": "Rodrygo", "position": "FWD", "age": 24, "overall": 87, "potential": 91 },
+      { "name": "Endrick", "position": "FWD", "age": 19, "overall": 80, "potential": 92 },
+      { "name": "Brahim Díaz", "position": "FWD", "age": 26, "overall": 82, "potential": 85 }
+    ]
+  },
+  {
+    "id": "fc_barcelona", "name": "FC Barcelona", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Marc-André ter Stegen", "position": "GK", "age": 33, "overall": 88, "potential": 88 },
+      { "name": "Iñaki Peña", "position": "GK", "age": 26, "overall": 76, "potential": 80 },
+      { "name": "Jules Koundé", "position": "DEF", "age": 26, "overall": 85, "potential": 87 },
+      { "name": "Ronald Araújo", "position": "DEF", "age": 26, "overall": 85, "potential": 87 },
+      { "name": "Pau Cubarsí", "position": "DEF", "age": 18, "overall": 82, "potential": 92 },
+      { "name": "Alejandro Balde", "position": "DEF", "age": 21, "overall": 82, "potential": 89 },
+      { "name": "Iñigo Martínez", "position": "DEF", "age": 33, "overall": 81, "potential": 81 },
+      { "name": "Pedri", "position": "MID", "age": 22, "overall": 89, "potential": 93 },
+      { "name": "Gavi", "position": "MID", "age": 20, "overall": 84, "potential": 91 },
+      { "name": "Frenkie de Jong", "position": "MID", "age": 28, "overall": 86, "potential": 87 },
+      { "name": "Dani Olmo", "position": "MID", "age": 27, "overall": 85, "potential": 86 },
+      { "name": "Fermín López", "position": "MID", "age": 22, "overall": 80, "potential": 88 },
+      { "name": "Marc Casadó", "position": "MID", "age": 21, "overall": 79, "potential": 88 },
+      { "name": "Lamine Yamal", "position": "FWD", "age": 18, "overall": 88, "potential": 95 },
+      { "name": "Robert Lewandowski", "position": "FWD", "age": 37, "overall": 88, "potential": 88 },
+      { "name": "Raphinha", "position": "FWD", "age": 28, "overall": 86, "potential": 87 },
+      { "name": "Ferran Torres", "position": "FWD", "age": 25, "overall": 81, "potential": 84 },
+      { "name": "Pau Víctor", "position": "FWD", "age": 24, "overall": 75, "potential": 82 }
+    ]
+  },
+  {
+    "id": "atletico_madrid", "name": "Atlético Madrid", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Jan Oblak", "position": "GK", "age": 32, "overall": 88, "potential": 88 },
+      { "name": "Juan Musso", "position": "GK", "age": 31, "overall": 78, "potential": 78 },
+      { "name": "José María Giménez", "position": "DEF", "age": 30, "overall": 84, "potential": 84 },
+      { "name": "Robin Le Normand", "position": "DEF", "age": 28, "overall": 83, "potential": 84 },
+      { "name": "Nahuel Molina", "position": "DEF", "age": 27, "overall": 82, "potential": 83 },
+      { "name": "Reinildo Mandava", "position": "DEF", "age": 31, "overall": 79, "potential": 79 },
+      { "name": "César Azpilicueta", "position": "DEF", "age": 36, "overall": 78, "potential": 78 },
+      { "name": "Rodrigo De Paul", "position": "MID", "age": 31, "overall": 84, "potential": 84 },
+      { "name": "Koke", "position": "MID", "age": 33, "overall": 82, "potential": 82 },
+      { "name": "Pablo Barrios", "position": "MID", "age": 21, "overall": 81, "potential": 89 },
+      { "name": "Conor Gallagher", "position": "MID", "age": 25, "overall": 82, "potential": 84 },
+      { "name": "Marcos Llorente", "position": "MID", "age": 30, "overall": 83, "potential": 83 },
+      { "name": "Antoine Griezmann", "position": "FWD", "age": 34, "overall": 87, "potential": 87 },
+      { "name": "Julián Álvarez", "position": "FWD", "age": 25, "overall": 86, "potential": 89 },
+      { "name": "Alexander Sørloth", "position": "FWD", "age": 29, "overall": 82, "potential": 82 },
+      { "name": "Ángel Correa", "position": "FWD", "age": 30, "overall": 81, "potential": 81 }
+    ]
+  },
+  {
+    "id": "athletic_club", "name": "Athletic Club", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Unai Simón", "position": "GK", "age": 28, "overall": 84, "potential": 85 },
+      { "name": "Julen Agirrezabala", "position": "GK", "age": 25, "overall": 76, "potential": 81 },
+      { "name": "Dani Vivian", "position": "DEF", "age": 26, "overall": 81, "potential": 84 },
+      { "name": "Aitor Paredes", "position": "DEF", "age": 25, "overall": 77, "potential": 82 },
+      { "name": "Óscar de Marcos", "position": "DEF", "age": 36, "overall": 76, "potential": 76 },
+      { "name": "Yuri Berchiche", "position": "DEF", "age": 35, "overall": 77, "potential": 77 },
+      { "name": "Andoni Gorosabel", "position": "DEF", "age": 28, "overall": 76, "potential": 76 },
+      { "name": "Oihan Sancet", "position": "MID", "age": 25, "overall": 82, "potential": 86 },
+      { "name": "Iñigo Ruiz de Galarreta", "position": "MID", "age": 31, "overall": 77, "potential": 77 },
+      { "name": "Mikel Vesga", "position": "MID", "age": 31, "overall": 76, "potential": 76 },
+      { "name": "Beñat Prados", "position": "MID", "age": 24, "overall": 74, "potential": 80 },
+      { "name": "Nico Williams", "position": "FWD", "age": 23, "overall": 85, "potential": 89 },
+      { "name": "Iñaki Williams", "position": "FWD", "age": 31, "overall": 81, "potential": 81 },
+      { "name": "Álex Berenguer", "position": "FWD", "age": 30, "overall": 78, "potential": 78 },
+      { "name": "Gorka Guruzeta", "position": "FWD", "age": 28, "overall": 76, "potential": 76 }
+    ]
+  },
+  {
+    "id": "real_sociedad", "name": "Real Sociedad", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Álex Remiro", "position": "GK", "age": 30, "overall": 82, "potential": 82 },
+      { "name": "Unai Marrero", "position": "GK", "age": 23, "overall": 68, "potential": 78 },
+      { "name": "Igor Zubeldia", "position": "DEF", "age": 28, "overall": 78, "potential": 79 },
+      { "name": "Nayef Aguerd", "position": "DEF", "age": 29, "overall": 79, "potential": 79 },
+      { "name": "Jon Aramburu", "position": "DEF", "age": 23, "overall": 77, "potential": 84 },
+      { "name": "Aihen Muñoz", "position": "DEF", "age": 28, "overall": 76, "potential": 76 },
+      { "name": "Martín Zubimendi", "position": "MID", "age": 26, "overall": 84, "potential": 87 },
+      { "name": "Mikel Merino", "position": "MID", "age": 29, "overall": 82, "potential": 82 },
+      { "name": "Brais Méndez", "position": "MID", "age": 28, "overall": 80, "potential": 80 },
+      { "name": "Sergio Gómez", "position": "MID", "age": 24, "overall": 77, "potential": 82 },
+      { "name": "Takefusa Kubo", "position": "FWD", "age": 24, "overall": 83, "potential": 86 },
+      { "name": "Mikel Oyarzabal", "position": "FWD", "age": 28, "overall": 83, "potential": 83 },
+      { "name": "Sheraldo Becker", "position": "FWD", "age": 30, "overall": 76, "potential": 76 },
+      { "name": "Orri Óskarsson", "position": "FWD", "age": 21, "overall": 74, "potential": 84 }
+    ]
+  },
+  {
+    "id": "real_betis", "name": "Real Betis", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Rui Silva", "position": "GK", "age": 31, "overall": 79, "potential": 79 },
+      { "name": "Fran Vieites", "position": "GK", "age": 26, "overall": 70, "potential": 76 },
+      { "name": "Natan", "position": "DEF", "age": 24, "overall": 77, "potential": 83 },
+      { "name": "Diego Llorente", "position": "DEF", "age": 32, "overall": 78, "potential": 78 },
+      { "name": "Youssouf Sabaly", "position": "DEF", "age": 32, "overall": 76, "potential": 76 },
+      { "name": "Ricardo Rodríguez", "position": "DEF", "age": 33, "overall": 75, "potential": 75 },
+      { "name": "Isco", "position": "MID", "age": 33, "overall": 84, "potential": 84 },
+      { "name": "Giovani Lo Celso", "position": "MID", "age": 29, "overall": 82, "potential": 82 },
+      { "name": "Marc Roca", "position": "MID", "age": 28, "overall": 77, "potential": 78 },
+      { "name": "Johnny Cardoso", "position": "MID", "age": 24, "overall": 78, "potential": 84 },
+      { "name": "Antony", "position": "FWD", "age": 25, "overall": 79, "potential": 82 },
+      { "name": "Cédric Bakambu", "position": "FWD", "age": 34, "overall": 75, "potential": 75 },
+      { "name": "Chimy Ávila", "position": "FWD", "age": 31, "overall": 77, "potential": 77 },
+      { "name": "Aitor Ruibal", "position": "FWD", "age": 29, "overall": 75, "potential": 75 }
+    ]
+  },
+  {
+    "id": "villarreal", "name": "Villarreal CF", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Diego Conde", "position": "GK", "age": 26, "overall": 78, "potential": 82 },
+      { "name": "Luiz Júnior", "position": "GK", "age": 24, "overall": 74, "potential": 81 },
+      { "name": "Raúl Albiol", "position": "DEF", "age": 39, "overall": 78, "potential": 78 },
+      { "name": "Logan Costa", "position": "DEF", "age": 24, "overall": 77, "potential": 84 },
+      { "name": "Juan Foyth", "position": "DEF", "age": 27, "overall": 78, "potential": 79 },
+      { "name": "Sergi Cardona", "position": "DEF", "age": 26, "overall": 76, "potential": 78 },
+      { "name": "Dani Parejo", "position": "MID", "age": 36, "overall": 84, "potential": 84 },
+      { "name": "Álex Baena", "position": "MID", "age": 24, "overall": 82, "potential": 87 },
+      { "name": "Santi Comesaña", "position": "MID", "age": 28, "overall": 77, "potential": 78 },
+      { "name": "Pape Gueye", "position": "MID", "age": 26, "overall": 76, "potential": 79 },
+      { "name": "Gerard Moreno", "position": "FWD", "age": 33, "overall": 82, "potential": 82 },
+      { "name": "Yeremy Pino", "position": "FWD", "age": 22, "overall": 81, "potential": 88 },
+      { "name": "Thierno Barry", "position": "FWD", "age": 22, "overall": 76, "potential": 84 },
+      { "name": "Ayoze Pérez", "position": "FWD", "age": 32, "overall": 80, "potential": 80 }
+    ]
+  },
+  {
+    "id": "sevilla", "name": "Sevilla FC", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Ørjan Nyland", "position": "GK", "age": 35, "overall": 78, "potential": 78 },
+      { "name": "Álvaro Fernández", "position": "GK", "age": 26, "overall": 72, "potential": 78 },
+      { "name": "Loïc Badé", "position": "DEF", "age": 25, "overall": 80, "potential": 85 },
+      { "name": "Nemanja Gudelj", "position": "DEF", "age": 33, "overall": 78, "potential": 78 },
+      { "name": "José Ángel Carmona", "position": "DEF", "age": 23, "overall": 76, "potential": 83 },
+      { "name": "Adrià Pedrosa", "position": "DEF", "age": 27, "overall": 75, "potential": 76 },
+      { "name": "Saúl Ñíguez", "position": "MID", "age": 31, "overall": 79, "potential": 79 },
+      { "name": "Djibril Sow", "position": "MID", "age": 28, "overall": 78, "potential": 79 },
+      { "name": "Juanlu Sánchez", "position": "MID", "age": 21, "overall": 76, "potential": 85 },
+      { "name": "Lucien Agoumé", "position": "MID", "age": 23, "overall": 75, "potential": 82 },
+      { "name": "Dodi Lukébakio", "position": "FWD", "age": 27, "overall": 80, "potential": 82 },
+      { "name": "Isaac Romero", "position": "FWD", "age": 25, "overall": 77, "potential": 83 },
+      { "name": "Suso", "position": "FWD", "age": 31, "overall": 78, "potential": 78 },
+      { "name": "Kelechi Iheanacho", "position": "FWD", "age": 29, "overall": 76, "potential": 76 }
+    ]
+  },
+  {
+    "id": "girona", "name": "Girona FC", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Paulo Gazzaniga", "position": "GK", "age": 33, "overall": 78, "potential": 78 },
+      { "name": "Juan Carlos", "position": "GK", "age": 36, "overall": 73, "potential": 73 },
+      { "name": "Daley Blind", "position": "DEF", "age": 35, "overall": 78, "potential": 78 },
+      { "name": "Ladislav Krejčí", "position": "DEF", "age": 26, "overall": 77, "potential": 82 },
+      { "name": "Arnau Martínez", "position": "DEF", "age": 22, "overall": 76, "potential": 84 },
+      { "name": "Miguel Gutiérrez", "position": "DEF", "age": 24, "overall": 78, "potential": 84 },
+      { "name": "Oriol Romeu", "position": "MID", "age": 34, "overall": 76, "potential": 76 },
+      { "name": "Yangel Herrera", "position": "MID", "age": 27, "overall": 77, "potential": 78 },
+      { "name": "Donny van de Beek", "position": "MID", "age": 28, "overall": 76, "potential": 76 },
+      { "name": "Iván Martín", "position": "MID", "age": 26, "overall": 75, "potential": 78 },
+      { "name": "Viktor Tsygankov", "position": "FWD", "age": 28, "overall": 80, "potential": 80 },
+      { "name": "Bryan Gil", "position": "FWD", "age": 24, "overall": 77, "potential": 82 },
+      { "name": "Bojan Miovski", "position": "FWD", "age": 26, "overall": 75, "potential": 78 },
+      { "name": "Abel Ruiz", "position": "FWD", "age": 25, "overall": 74, "potential": 77 }
+    ]
+  },
+  {
+    "id": "valencia", "name": "Valencia CF", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Giorgi Mamardashvili", "position": "GK", "age": 25, "overall": 84, "potential": 89 },
+      { "name": "Stole Dimitrievski", "position": "GK", "age": 31, "overall": 75, "potential": 75 },
+      { "name": "Cristhian Mosquera", "position": "DEF", "age": 21, "overall": 76, "potential": 85 },
+      { "name": "César Tárrega", "position": "DEF", "age": 23, "overall": 74, "potential": 80 },
+      { "name": "Thierry Correia", "position": "DEF", "age": 26, "overall": 74, "potential": 76 },
+      { "name": "José Gayà", "position": "DEF", "age": 30, "overall": 80, "potential": 80 },
+      { "name": "Pepelu", "position": "MID", "age": 27, "overall": 80, "potential": 82 },
+      { "name": "Enzo Barrenechea", "position": "MID", "age": 24, "overall": 74, "potential": 81 },
+      { "name": "Javi Guerra", "position": "MID", "age": 22, "overall": 77, "potential": 86 },
+      { "name": "André Almeida", "position": "MID", "age": 25, "overall": 76, "potential": 81 },
+      { "name": "Hugo Duro", "position": "FWD", "age": 26, "overall": 77, "potential": 80 },
+      { "name": "Diego López", "position": "FWD", "age": 22, "overall": 75, "potential": 84 },
+      { "name": "Luis Rioja", "position": "FWD", "age": 31, "overall": 76, "potential": 76 },
+      { "name": "Fran Pérez", "position": "FWD", "age": 23, "overall": 73, "potential": 80 }
+    ]
+  },
+  {
+    "id": "osasuna", "name": "CA Osasuna", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Sergio Herrera", "position": "GK", "age": 32, "overall": 76, "potential": 76 },
+      { "name": "Aitor Fernández", "position": "GK", "age": 34, "overall": 74, "potential": 74 },
+      { "name": "David García", "position": "DEF", "age": 31, "overall": 76, "potential": 76 },
+      { "name": "Alejandro Catena", "position": "DEF", "age": 30, "overall": 75, "potential": 75 },
+      { "name": "Jesús Areso", "position": "DEF", "age": 26, "overall": 74, "potential": 76 },
+      { "name": "Juan Cruz", "position": "DEF", "age": 32, "overall": 74, "potential": 74 },
+      { "name": "Lucas Torró", "position": "MID", "age": 31, "overall": 75, "potential": 75 },
+      { "name": "Aimar Oroz", "position": "MID", "age": 23, "overall": 77, "potential": 83 },
+      { "name": "Jon Moncayola", "position": "MID", "age": 27, "overall": 75, "potential": 76 },
+      { "name": "Pablo Ibáñez", "position": "MID", "age": 26, "overall": 74, "potential": 78 },
+      { "name": "Ante Budimir", "position": "FWD", "age": 34, "overall": 79, "potential": 79 },
+      { "name": "Rubén García", "position": "FWD", "age": 32, "overall": 75, "potential": 75 },
+      { "name": "Kike Barja", "position": "FWD", "age": 28, "overall": 73, "potential": 73 },
+      { "name": "Raúl García de Haro", "position": "FWD", "age": 25, "overall": 73, "potential": 78 }
+    ]
+  },
+  {
+    "id": "celta_vigo", "name": "Celta de Vigo", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Vicente Guaita", "position": "GK", "age": 38, "overall": 77, "potential": 77 },
+      { "name": "Iván Villar", "position": "GK", "age": 28, "overall": 73, "potential": 75 },
+      { "name": "Carl Starfelt", "position": "DEF", "age": 30, "overall": 75, "potential": 75 },
+      { "name": "Unai Núñez", "position": "DEF", "age": 28, "overall": 75, "potential": 76 },
+      { "name": "Óscar Mingueza", "position": "DEF", "age": 26, "overall": 77, "potential": 80 },
+      { "name": "Mihailo Ristić", "position": "DEF", "age": 30, "overall": 73, "potential": 73 },
+      { "name": "Fran Beltrán", "position": "MID", "age": 26, "overall": 76, "potential": 78 },
+      { "name": "Ilaix Moriba", "position": "MID", "age": 22, "overall": 74, "potential": 82 },
+      { "name": "Damián Rodríguez", "position": "MID", "age": 22, "overall": 72, "potential": 80 },
+      { "name": "Williot Swedberg", "position": "MID", "age": 21, "overall": 71, "potential": 79 },
+      { "name": "Iago Aspas", "position": "FWD", "age": 38, "overall": 80, "potential": 80 },
+      { "name": "Borja Iglesias", "position": "FWD", "age": 32, "overall": 77, "potential": 77 },
+      { "name": "Jonathan Bamba", "position": "FWD", "age": 29, "overall": 76, "potential": 76 },
+      { "name": "Pablo Durán", "position": "FWD", "age": 23, "overall": 72, "potential": 79 }
+    ]
+  },
+  {
+    "id": "rayo_vallecano", "name": "Rayo Vallecano", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Augusto Batalla", "position": "GK", "age": 28, "overall": 75, "potential": 77 },
+      { "name": "Dani Cárdenas", "position": "GK", "age": 28, "overall": 73, "potential": 75 },
+      { "name": "Florian Lejeune", "position": "DEF", "age": 34, "overall": 76, "potential": 76 },
+      { "name": "Aridane Hernández", "position": "DEF", "age": 36, "overall": 72, "potential": 72 },
+      { "name": "Iván Balliu", "position": "DEF", "age": 33, "overall": 74, "potential": 74 },
+      { "name": "Pep Chavarría", "position": "DEF", "age": 27, "overall": 73, "potential": 74 },
+      { "name": "Unai López", "position": "MID", "age": 30, "overall": 76, "potential": 76 },
+      { "name": "Pathé Ciss", "position": "MID", "age": 31, "overall": 74, "potential": 74 },
+      { "name": "Óscar Valentín", "position": "MID", "age": 30, "overall": 74, "potential": 74 },
+      { "name": "Gerard Gumbau", "position": "MID", "age": 31, "overall": 72, "potential": 72 },
+      { "name": "Isi Palazón", "position": "FWD", "age": 30, "overall": 78, "potential": 78 },
+      { "name": "Álvaro García", "position": "FWD", "age": 32, "overall": 76, "potential": 76 },
+      { "name": "Sergio Camello", "position": "FWD", "age": 24, "overall": 74, "potential": 80 },
+      { "name": "Randy Nteka", "position": "FWD", "age": 27, "overall": 72, "potential": 73 }
+    ]
+  },
+  {
+    "id": "getafe", "name": "Getafe CF", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "David Soria", "position": "GK", "age": 32, "overall": 77, "potential": 77 },
+      { "name": "Jiří Letáček", "position": "GK", "age": 26, "overall": 70, "potential": 76 },
+      { "name": "Djené Dakonam", "position": "DEF", "age": 33, "overall": 76, "potential": 76 },
+      { "name": "Omar Alderete", "position": "DEF", "age": 28, "overall": 75, "potential": 76 },
+      { "name": "Diego Rico", "position": "DEF", "age": 32, "overall": 74, "potential": 74 },
+      { "name": "Juan Iglesias", "position": "DEF", "age": 27, "overall": 72, "potential": 73 },
+      { "name": "Luis Milla", "position": "MID", "age": 30, "overall": 76, "potential": 76 },
+      { "name": "Mauro Arambarri", "position": "MID", "age": 30, "overall": 76, "potential": 76 },
+      { "name": "Carles Aleñá", "position": "MID", "age": 27, "overall": 74, "potential": 76 },
+      { "name": "Yellu Santiago", "position": "MID", "age": 21, "overall": 71, "potential": 80 },
+      { "name": "Borja Mayoral", "position": "FWD", "age": 28, "overall": 77, "potential": 78 },
+      { "name": "Álex Sola", "position": "FWD", "age": 26, "overall": 73, "potential": 76 },
+      { "name": "Bertuğ Yıldırım", "position": "FWD", "age": 23, "overall": 72, "potential": 80 },
+      { "name": "Chrisantus Uche", "position": "FWD", "age": 21, "overall": 72, "potential": 81 }
+    ]
+  },
+  {
+    "id": "deportivo_alaves", "name": "Deportivo Alavés", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Antonio Sivera", "position": "GK", "age": 28, "overall": 77, "potential": 79 },
+      { "name": "Jesús Owono", "position": "GK", "age": 25, "overall": 70, "potential": 76 },
+      { "name": "Abdelkabir Abqar", "position": "DEF", "age": 26, "overall": 75, "potential": 80 },
+      { "name": "Aleksandar Sedlar", "position": "DEF", "age": 33, "overall": 73, "potential": 73 },
+      { "name": "Nahuel Tenaglia", "position": "DEF", "age": 29, "overall": 73, "potential": 73 },
+      { "name": "Manu Sánchez", "position": "DEF", "age": 25, "overall": 74, "potential": 78 },
+      { "name": "Antonio Blanco", "position": "MID", "age": 25, "overall": 75, "potential": 80 },
+      { "name": "Ander Guevara", "position": "MID", "age": 28, "overall": 74, "potential": 74 },
+      { "name": "Jon Guridi", "position": "MID", "age": 30, "overall": 74, "potential": 74 },
+      { "name": "Carlos Protesoni", "position": "MID", "age": 27, "overall": 72, "potential": 73 },
+      { "name": "Kike García", "position": "FWD", "age": 35, "overall": 76, "potential": 76 },
+      { "name": "Carlos Vicente", "position": "FWD", "age": 26, "overall": 74, "potential": 77 },
+      { "name": "Toni Martínez", "position": "FWD", "age": 28, "overall": 73, "potential": 73 },
+      { "name": "Asier Villalibre", "position": "FWD", "age": 28, "overall": 73, "potential": 73 }
+    ]
+  },
+  {
+    "id": "rcd_espanyol", "name": "RCD Espanyol", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Joan García", "position": "GK", "age": 24, "overall": 78, "potential": 86 },
+      { "name": "Fernando Pacheco", "position": "GK", "age": 33, "overall": 73, "potential": 73 },
+      { "name": "Leandro Cabrera", "position": "DEF", "age": 34, "overall": 74, "potential": 74 },
+      { "name": "Marash Kumbulla", "position": "DEF", "age": 25, "overall": 74, "potential": 78 },
+      { "name": "Omar El Hilali", "position": "DEF", "age": 22, "overall": 73, "potential": 81 },
+      { "name": "Brian Oliván", "position": "DEF", "age": 31, "overall": 73, "potential": 73 },
+      { "name": "Pol Lozano", "position": "MID", "age": 26, "overall": 73, "potential": 76 },
+      { "name": "Álvaro Aguado", "position": "MID", "age": 29, "overall": 72, "potential": 72 },
+      { "name": "Edu Expósito", "position": "MID", "age": 28, "overall": 74, "potential": 74 },
+      { "name": "Kral", "position": "MID", "age": 27, "overall": 73, "potential": 74 },
+      { "name": "Javi Puado", "position": "FWD", "age": 27, "overall": 77, "potential": 79 },
+      { "name": "Roberto Fernández", "position": "FWD", "age": 23, "overall": 72, "potential": 80 },
+      { "name": "Waldo Rubio", "position": "FWD", "age": 29, "overall": 71, "potential": 71 },
+      { "name": "Irvin Cardona", "position": "FWD", "age": 28, "overall": 72, "potential": 73 }
+    ]
+  },
+  {
+    "id": "rcd_mallorca", "name": "RCD Mallorca", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Dominik Greif", "position": "GK", "age": 28, "overall": 75, "potential": 77 },
+      { "name": "Leo Román", "position": "GK", "age": 25, "overall": 71, "potential": 77 },
+      { "name": "Antonio Raíllo", "position": "DEF", "age": 34, "overall": 74, "potential": 74 },
+      { "name": "Martin Valjent", "position": "DEF", "age": 30, "overall": 74, "potential": 74 },
+      { "name": "Pablo Maffeo", "position": "DEF", "age": 28, "overall": 75, "potential": 75 },
+      { "name": "Johan Mojica", "position": "DEF", "age": 33, "overall": 73, "potential": 73 },
+      { "name": "Omar Mascarell", "position": "MID", "age": 32, "overall": 74, "potential": 74 },
+      { "name": "Samú Costa", "position": "MID", "age": 25, "overall": 74, "potential": 78 },
+      { "name": "Sergi Darder", "position": "MID", "age": 31, "overall": 76, "potential": 76 },
+      { "name": "Manu Morlanes", "position": "MID", "age": 26, "overall": 73, "potential": 75 },
+      { "name": "Vedat Muriqi", "position": "FWD", "age": 31, "overall": 77, "potential": 77 },
+      { "name": "Cyle Larin", "position": "FWD", "age": 30, "overall": 74, "potential": 74 },
+      { "name": "Takuma Asano", "position": "FWD", "age": 31, "overall": 73, "potential": 73 },
+      { "name": "Robert Navarro", "position": "FWD", "age": 22, "overall": 72, "potential": 80 }
+    ]
+  },
+  {
+    "id": "cd_leganes", "name": "CD Leganés", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Marko Dmitrović", "position": "GK", "age": 33, "overall": 77, "potential": 77 },
+      { "name": "Juan Soriano", "position": "GK", "age": 28, "overall": 72, "potential": 74 },
+      { "name": "Sergio González", "position": "DEF", "age": 33, "overall": 73, "potential": 73 },
+      { "name": "Jorge Sáenz", "position": "DEF", "age": 28, "overall": 72, "potential": 73 },
+      { "name": "Adrià Altimira", "position": "DEF", "age": 24, "overall": 71, "potential": 77 },
+      { "name": "Javi Hernández", "position": "DEF", "age": 27, "overall": 72, "potential": 73 },
+      { "name": "Renato Tapia", "position": "MID", "age": 30, "overall": 74, "potential": 74 },
+      { "name": "Yvan Neyou", "position": "MID", "age": 28, "overall": 72, "potential": 73 },
+      { "name": "Darko Brašanac", "position": "MID", "age": 33, "overall": 73, "potential": 73 },
+      { "name": "Óscar Rodríguez", "position": "MID", "age": 27, "overall": 73, "potential": 75 },
+      { "name": "Miguel de la Fuente", "position": "FWD", "age": 26, "overall": 72, "potential": 74 },
+      { "name": "Sebastiano Esposito", "position": "FWD", "age": 23, "overall": 73, "potential": 82 },
+      { "name": "Daniel Raba", "position": "FWD", "age": 30, "overall": 73, "potential": 73 },
+      { "name": "Diego García", "position": "FWD", "age": 25, "overall": 71, "potential": 75 }
+    ]
+  },
+  {
+    "id": "ud_las_palmas", "name": "UD Las Palmas", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Jasper Cillessen", "position": "GK", "age": 36, "overall": 76, "potential": 76 },
+      { "name": "Dinko Horkaš", "position": "GK", "age": 26, "overall": 70, "potential": 76 },
+      { "name": "Mika Mármol", "position": "DEF", "age": 24, "overall": 74, "potential": 82 },
+      { "name": "Scott McKenna", "position": "DEF", "age": 29, "overall": 73, "potential": 73 },
+      { "name": "Álex Suárez", "position": "DEF", "age": 32, "overall": 71, "potential": 71 },
+      { "name": "Viti Rozada", "position": "DEF", "age": 27, "overall": 72, "potential": 73 },
+      { "name": "Kirian Rodríguez", "position": "MID", "age": 29, "overall": 76, "potential": 76 },
+      { "name": "Javi Muñoz", "position": "MID", "age": 30, "overall": 73, "potential": 73 },
+      { "name": "Alberto Moleiro", "position": "MID", "age": 21, "overall": 78, "potential": 87 },
+      { "name": "Enzo Loiodice", "position": "MID", "age": 25, "overall": 72, "potential": 76 },
+      { "name": "Sandro Ramírez", "position": "FWD", "age": 30, "overall": 75, "potential": 75 },
+      { "name": "Fabio Silva", "position": "FWD", "age": 23, "overall": 74, "potential": 82 },
+      { "name": "Manu Fuster", "position": "FWD", "age": 27, "overall": 73, "potential": 74 },
+      { "name": "Oliver McBurnie", "position": "FWD", "age": 29, "overall": 72, "potential": 72 }
+    ]
+  },
+  {
+    "id": "real_valladolid", "name": "Real Valladolid", "league": "La Liga", "budget": 50,
+    "players": [
+      { "name": "Karl Hein", "position": "GK", "age": 23, "overall": 74, "potential": 83 },
+      { "name": "André Ferreira", "position": "GK", "age": 29, "overall": 71, "potential": 71 },
+      { "name": "David Torres", "position": "DEF", "age": 22, "overall": 71, "potential": 79 },
+      { "name": "Juma Bah", "position": "DEF", "age": 19, "overall": 70, "potential": 82 },
+      { "name": "Luis Pérez", "position": "DEF", "age": 30, "overall": 72, "potential": 72 },
+      { "name": "Lucas Rosa", "position": "DEF", "age": 25, "overall": 70, "potential": 75 },
+      { "name": "Kike Pérez", "position": "MID", "age": 28, "overall": 72, "potential": 72 },
+      { "name": "Selim Amallah", "position": "MID", "age": 28, "overall": 73, "potential": 73 },
+      { "name": "Mario Martín", "position": "MID", "age": 21, "overall": 72, "potential": 81 },
+      { "name": "Anuar Tuhami", "position": "MID", "age": 30, "overall": 71, "potential": 71 },
+      { "name": "Marcos André", "position": "FWD", "age": 28, "overall": 72, "potential": 72 },
+      { "name": "Raúl Moro", "position": "FWD", "age": 22, "overall": 73, "potential": 82 },
+      { "name": "Amath Ndiaye", "position": "FWD", "age": 29, "overall": 71, "potential": 71 },
+      { "name": "Juanmi Latasa", "position": "FWD", "age": 24, "overall": 71, "potential": 76 }
+    ]
+  }
+]
